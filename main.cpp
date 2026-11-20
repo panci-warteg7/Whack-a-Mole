@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-#include <ncurses.h>
-=======
 #include <ncurses.h>
 #include <cstdlib>
 #include <ctime>
